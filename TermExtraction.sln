@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TermExtraction", "TermExtraction\TermExtraction.csproj", "{C0774C32-09E6-4AE9-8A3A-F503D82574BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermExtracionTest", "TermExtracionTest\TermExtracionTest.csproj", "{AC4D336E-31E1-4578-9D21-55B74E88806A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0774C32-09E6-4AE9-8A3A-F503D82574BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0774C32-09E6-4AE9-8A3A-F503D82574BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0774C32-09E6-4AE9-8A3A-F503D82574BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0774C32-09E6-4AE9-8A3A-F503D82574BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4D336E-31E1-4578-9D21-55B74E88806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4D336E-31E1-4578-9D21-55B74E88806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4D336E-31E1-4578-9D21-55B74E88806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4D336E-31E1-4578-9D21-55B74E88806A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26FCFC3A-7B6D-459F-939C-2FA91B3BED53}
+	EndGlobalSection
+EndGlobal
